@@ -1,6 +1,9 @@
 # Приложение "Стрелочные часы для vMix"
 
-[Страничка проекта] (https://alecsandrkotov.github.io/Time/)
+Страничка проекта - https://alecsandrkotov.github.io/Time/
+
+![screenshot of sample](https://alecsandrkotov.github.io/Time/img/programm.jpg)
+
 
 Данное приложение написано для использования с программой vMix и модуле «Title Designer». «Title Designer» прекрасно работает с модулем «DATA SOURCE» который передает «Title Designer» данные из импортированных файлов (txt, csv и др.). Что позволяет реализовать стрелочные часы в программе vMix.
 
