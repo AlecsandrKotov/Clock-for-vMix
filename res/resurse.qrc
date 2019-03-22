@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="open">
+    <file>time_ico.png</file>
+    <file>about .png</file>
+    <file>author.png</file>
+    <file>exit.png</file>
+    <file>help.png</file>
+    <file>open.png</file>
+    <file>save.png</file>
+  </qresource>
+</RCC>
