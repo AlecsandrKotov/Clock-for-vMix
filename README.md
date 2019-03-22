@@ -1,7 +1,5 @@
 # Приложение "Стрелочные часы для vMix"
-
-Страничка проекта - https://alecsandrkotov.github.io/Time/
-
+[Страничка проекта](https://alecsandrkotov.github.io/Time/)
 ![screenshot of sample](https://alecsandrkotov.github.io/Time/img/programm.jpg)
 
 
